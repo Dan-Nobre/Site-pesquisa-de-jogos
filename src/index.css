@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Exo 2";
+}
+
+body {
+  background-color: #111211;
+  color: #645dc2;
+}
+
+ul{
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #e5c15c;
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+a:hover{
+  opacity: 1;
+}
+
+p{
+  color: #a59361;
+}
